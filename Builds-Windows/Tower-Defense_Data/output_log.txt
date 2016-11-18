@@ -14,17 +14,41 @@ Platform assembly: C:\Users\ABC50\Desktop\Tower-Defense\Builds-Windows\Tower-Def
 Loading C:\Users\ABC50\Desktop\Tower-Defense\Builds-Windows\Tower-Defense_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\ABC50\Desktop\Tower-Defense\Builds-Windows\Tower-Defense_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
 Loading C:\Users\ABC50\Desktop\Tower-Defense\Builds-Windows\Tower-Defense_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-- Completed reload, in  0.365 seconds
+- Completed reload, in  0.115 seconds
 Platform assembly: C:\Users\ABC50\Desktop\Tower-Defense\Builds-Windows\Tower-Defense_Data\Managed\System.Core.dll (this message is harmless)
 Platform assembly: C:\Users\ABC50\Desktop\Tower-Defense\Builds-Windows\Tower-Defense_Data\Managed\System.dll (this message is harmless)
 desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.892489 ms
+UnloadTime: 1.823066 ms
 Setting up 1 worker threads for Enlighten.
-  Thread -> id: 2e08 -> priority: 1 
+  Thread -> id: 1f40 -> priority: 1 
 Standard Turret Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Standard Turret Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Turret build! Money left: 300
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Laser Beamer Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Turret build! Money left: 0
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Standard Turret Selected
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+Turret build! Money left: 0
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
@@ -32,15 +56,11 @@ Missile Launcher Selected
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Standard Turret Selected
+Turret build! Money left: 1150
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
-Missile Launcher Selected
- 
-(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
-
-Can't build there! - TODO: Display on screen.
+Game Over!
  
 (Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
 
